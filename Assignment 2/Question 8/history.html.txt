@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>History</title>
+</head>
+<body>
+    <h1><u>History</u></h1>
+    
+    
+    <p><b>Timetable:</b> Monday - Friday, 10 AM - 12 PM</p>
+</body>
+</html>

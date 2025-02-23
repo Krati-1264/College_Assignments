@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>College Name</title>
+</head>
+<body>
+    <h1><u>College Name</u></h1>
+    <img src="logo.png" alt="College Logo" width="100">
+    <p><b>Welcome to our college.</b> <i>We provide quality education in various fields.</i></p>
+    <p><a href="academics.html">Academics</a></p>
+    <p><a href="admission.html">Admission</a></p>
+    <p><a href="gallery.html">Gallery</a></p>
+</body>
+</html>

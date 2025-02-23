@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Computer Science</title>
+</head>
+<body>
+    <h1><u>Computer Science</u></h1>
+    <p><b>Teachers:</b> Mr. Aditya Makwe
+    <p><b>Timetable:</b> Monday - Friday, 10 AM - 12 Noon</p>
+</body>
+</html>

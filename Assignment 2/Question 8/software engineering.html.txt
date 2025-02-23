@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Software Engineering</title>
+</head>
+<body>
+    <h1><u>Software Engineering</u></h1>
+    <p><b>Timetable:</b> Monday - Friday, 1 PM - 3 PM</p>
+</body>
+</html>

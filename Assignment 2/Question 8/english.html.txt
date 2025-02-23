@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>English</title>
+</head>
+<body>
+    <h1><u>English</u></h1>
+    <p><b>Teachers:</b> Dr. Ruchi Singh
+    <p><b>Timetable:</b> Monday - Friday, 10 AM - 12 PM</p>
+</body>
+</html>

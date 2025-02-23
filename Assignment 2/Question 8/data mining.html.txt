@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Mining</title>
+</head>
+<body>
+    <h1><u>Data Mining</u></h1>
+    <p><b>Timetable:</b> Monday - Friday, 3 PM - 5 PM</p>
+</body>
+</html>

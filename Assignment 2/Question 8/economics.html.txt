@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Economics</title>
+</head>
+<body>
+    <h1><u>Economics</u></h1>
+    
+    
+    <p><b>Timetable:</b> Monday - Friday, 2 PM - 4 PM</p>
+</body>
+</html>
