@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-4</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <div id="flex">
+    <h1>Registration Form</h1>
+    <form id="registrationForm">
+        <input type="text" id="name" placeholder="Name" required>
+        <input type="email" id="email" placeholder="Email" required>
+        <input type="tel" id="phone" placeholder="Phone Number" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="formMessage"></p>
+    
+    
+    <h3>Tasks</h3>
+     <div class="id">
+    <input type="text" id="taskInput" placeholder="Add a new task">
+    <button onclick="addTask()">Add Task</button>
+    <ul id="taskList"></ul>
+    </div>
+    
+    
+    <h3>Chatbot</h3>
+    <div class="id">
+    <input type="text" id="chatInput" placeholder="Ask something">
+    <button onclick="chatResponse()">Send</button>
+    <p id="chatOutput"></p>
+    </div>
+    
+    
+    <h3>Weather</h3>
+    <button onclick="fetchWeather()">Get Weather</button>
+    <p id="weatherData"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

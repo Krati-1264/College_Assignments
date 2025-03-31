@@ -1,0 +1,92 @@
+body {
+    font-family: Times New Roman, Serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+ #flex{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+ }
+
+
+h2, h3 {
+    color: #333;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    background-color: #3bfa01;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+
+}
+
+button:hover {
+    background-color: #1d7801;
+}
+
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.todo-item button {
+    background-color: #dc3545;
+}
+
+.todo-item button:hover {
+    background-color: #b02a37;
+}
+
+#chatOutput {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+
+#weatherData {
+    font-weight: bold;
+    margin-top: 10px;
+    color: #28a745;
+}
+
+.hidden {
+    display: none;
+}
+.id{
+    display: flex;
+    gap: 10px;
+}
